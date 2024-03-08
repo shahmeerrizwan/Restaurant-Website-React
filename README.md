@@ -6,6 +6,13 @@ Home Page :
 ![Screenshot 2024-03-09 033258](https://github.com/shahmeerrizwan/Restaurant-Website-React/assets/148860820/585ab5fd-6500-4354-bf4c-d1456a0d0fb6)
 
 
+About Page :
+
+
+![image](https://github.com/shahmeerrizwan/Restaurant-Website-React/assets/148860820/483d53cb-657e-4040-9f16-898453505057)
+
+
+
 
 
 # Getting Started with Create React App
