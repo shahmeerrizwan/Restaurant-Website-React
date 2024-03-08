@@ -19,6 +19,14 @@ Services Page :
 ![image](https://github.com/shahmeerrizwan/Restaurant-Website-React/assets/148860820/bdc8725e-a549-44ef-8866-6be18e05c744)
 
 
+
+
+Team Page :
+
+
+![image](https://github.com/shahmeerrizwan/Restaurant-Website-React/assets/148860820/8b9b7fcc-dd17-4daa-bdc2-3f46c655f48a)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
