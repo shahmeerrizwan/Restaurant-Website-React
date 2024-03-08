@@ -1,71 +1,11 @@
+A Complete Responsive Restaurant Website Using ReactJs 
+
 Home Page :
 
-![home page](https://github.com/shahmeerrizwan/Restaurant-Website-React/assets/148860820/87e612a3-25a8-46b2-8cf7-802111e33231)
+
+![Screenshot 2024-03-09 033258](https://github.com/shahmeerrizwan/Restaurant-Website-React/assets/148860820/585ab5fd-6500-4354-bf4c-d1456a0d0fb6)
 
 
-About Page :
-
-
-![about](https://github.com/shahmeerrizwan/Restaurant-Website-React/assets/148860820/862ef382-4049-4733-b4b3-f32d27031ef7)
-
-
-Service Page :
-
-
-![service](https://github.com/shahmeerrizwan/Restaurant-Website-React/assets/148860820/f30b19d0-b792-4e5c-baae-27f92f653c52)
-
-
-Menu Page :
-
-
-![menu](https://github.com/shahmeerrizwan/Restaurant-Website-React/assets/148860820/a99bc540-cef8-4108-b6de-be1431d33aa2)
-
-
-Menu / dinner :
-
-
-![menu1](https://github.com/shahmeerrizwan/Restaurant-Website-React/assets/148860820/24c5dc38-5e57-44be-8a6d-6a90cf839ce9)
-
-
-
-Menu / Fast Foood :
-
-
-![fast food](https://github.com/shahmeerrizwan/Restaurant-Website-React/assets/148860820/86fd316e-4bc4-4a51-af01-cb5ab3c18a9c)
-
-
-Menu / Drinks :
-
-![drink sec](https://github.com/shahmeerrizwan/Restaurant-Website-React/assets/148860820/f5b4be85-b2f9-4130-9ebe-77260d68a810)
-
-
-Menu / Ice-Cream :
-
-
-![ice cream](https://github.com/shahmeerrizwan/Restaurant-Website-React/assets/148860820/b3875d8a-8c8f-4d79-b6b9-0e4a5bd78d4a)
-
-
-Team Page :
-
-
-![Team](https://github.com/shahmeerrizwan/Restaurant-Website-React/assets/148860820/0561dc53-4e56-44b2-a0b4-65732a210e22)
-
-
-
-Contact Page :
-
-
-![contact](https://github.com/shahmeerrizwan/Restaurant-Website-React/assets/148860820/ae57238c-ed93-4593-9082-701757211c54)
-
-
-Simple Footer :
-
-
-![footer](https://github.com/shahmeerrizwan/Restaurant-Website-React/assets/148860820/9036e1c4-d1fe-4275-b564-9b9d7dd7e71b)
-
-
-
-It is a Complete Restaurant Website Using React.js . A Fully Responsive Website to Support All Devices.
 
 
 # Getting Started with Create React App
