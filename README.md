@@ -37,6 +37,19 @@ Contact Page :
 ![image](https://github.com/shahmeerrizwan/Restaurant-Website-React/assets/148860820/75c812ff-5f97-403d-9b80-3df4b1767c3a)
 
 
+
+
+Footer :
+
+
+
+
+<img width="944" alt="footer" src="https://github.com/shahmeerrizwan/Restaurant-Website-React/assets/148860820/a6b29b5a-50c5-484d-ac84-3100154a611e">
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
